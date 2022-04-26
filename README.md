@@ -1,3 +1,3 @@
 # DEMO
 
-Example
+Example of github use
